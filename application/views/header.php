@@ -10,7 +10,7 @@
 	<meta name="description" content="">
 	<meta name="keywords" content="">
 	<meta name="author" content="">
-	<title>VEHICLES</title>
+	<title> VEHICLES </title>
 
 	<link rel="apple-touch-icon" href="">
 	<link rel="shortcut icon" type="image/x-icon" href="">
