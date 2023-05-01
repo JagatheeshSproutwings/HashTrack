@@ -4,7 +4,7 @@
 <meta name="description" content="sproutwings is real time gps tracking system in all over india .our products are personal tracker,asset tracker,vechicle tracker,personal tracker,fleet tracker etc..,">
 <meta name="keywords" content="">
 <meta name="author" content="TRACKING WINGS">
-<title>CRM Dashboard - Tracking Wings</title>
+<title>HASHTRACK</title>
 <link rel="apple-touch-icon" href="app-assets/images/ico/apple-icon-120.png">
 <link rel="shortcut icon" type="image/x-icon" href="<?= base_url('app-assets/images/ico/favicon.png') ?>">
 <link href="https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,400i,500,500i%7COpen+Sans:300,300i,400,400i,600,600i,700,700i" rel="stylesheet">

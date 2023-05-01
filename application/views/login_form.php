@@ -26,7 +26,7 @@
 									<?php echo validation_errors(); ?>
 									<div id="loginError">
 										<code style="font-size: 18px;">
-										<?php echo $diff = strtotime('2023-04-27 01:00:00') - strtotime('2023-04-27 00:00:00'); ?>
+										<?php  $diff = strtotime('2023-04-27 01:00:00') - strtotime('2023-04-27 00:00:00'); ?>
 											<?= $this->session->flashdata('error'); ?>
 										</code>
 									</div>
